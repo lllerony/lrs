@@ -1,0 +1,16 @@
+C:\Users\gurin\source\repos\Laba_36\Laba_36\bin\Debug\Laba_36.exe.config
+C:\Users\gurin\source\repos\Laba_36\Laba_36\bin\Debug\Laba_36.exe
+C:\Users\gurin\source\repos\Laba_36\Laba_36\bin\Debug\Laba_36.pdb
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36.csproj.AssemblyReference.cache
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\MainWindow.g.cs
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\App.g.cs
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36_MarkupCompile.cache
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36_MarkupCompile.lref
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\MainWindow.baml
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36.g.resources
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36.Properties.Resources.resources
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36.csproj.GenerateResource.cache
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36.csproj.CoreCompileInputs.cache
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36.exe
+C:\Users\gurin\source\repos\Laba_36\Laba_36\obj\Debug\Laba_36.pdb

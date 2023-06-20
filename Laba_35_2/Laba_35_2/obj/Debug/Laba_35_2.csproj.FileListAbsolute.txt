@@ -1,0 +1,6 @@
+C:\Users\gurin\source\repos\Laba_35_2\Laba_35_2\obj\Debug\Laba_35_2.csproj.AssemblyReference.cache
+C:\Users\gurin\source\repos\Laba_35_2\Laba_35_2\obj\Debug\Laba_35_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gurin\source\repos\Laba_35_2\Laba_35_2\obj\Debug\MainWindow.g.cs
+C:\Users\gurin\source\repos\Laba_35_2\Laba_35_2\obj\Debug\App.g.cs
+C:\Users\gurin\source\repos\Laba_35_2\Laba_35_2\obj\Debug\Laba_35_2_MarkupCompile.cache
+C:\Users\gurin\source\repos\Laba_35_2\Laba_35_2\obj\Debug\Laba_35_2_MarkupCompile.lref

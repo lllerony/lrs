@@ -1,0 +1,15 @@
+C:\Users\gurin\source\repos\LR_40\LR_40\bin\Debug\net6.0\LR_40.exe
+C:\Users\gurin\source\repos\LR_40\LR_40\bin\Debug\net6.0\LR_40.deps.json
+C:\Users\gurin\source\repos\LR_40\LR_40\bin\Debug\net6.0\LR_40.runtimeconfig.json
+C:\Users\gurin\source\repos\LR_40\LR_40\bin\Debug\net6.0\LR_40.dll
+C:\Users\gurin\source\repos\LR_40\LR_40\bin\Debug\net6.0\LR_40.pdb
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\LR_40.csproj.AssemblyReference.cache
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\LR_40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\LR_40.AssemblyInfoInputs.cache
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\LR_40.AssemblyInfo.cs
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\LR_40.csproj.CoreCompileInputs.cache
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\LR_40.dll
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\refint\LR_40.dll
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\LR_40.pdb
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\LR_40.genruntimeconfig.cache
+C:\Users\gurin\source\repos\LR_40\LR_40\obj\Debug\net6.0\ref\LR_40.dll

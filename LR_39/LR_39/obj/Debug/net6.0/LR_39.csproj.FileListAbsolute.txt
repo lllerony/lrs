@@ -1,0 +1,15 @@
+C:\Users\gurin\source\repos\LR_39\LR_39\bin\Debug\net6.0\LR_39.exe
+C:\Users\gurin\source\repos\LR_39\LR_39\bin\Debug\net6.0\LR_39.deps.json
+C:\Users\gurin\source\repos\LR_39\LR_39\bin\Debug\net6.0\LR_39.runtimeconfig.json
+C:\Users\gurin\source\repos\LR_39\LR_39\bin\Debug\net6.0\LR_39.dll
+C:\Users\gurin\source\repos\LR_39\LR_39\bin\Debug\net6.0\LR_39.pdb
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\LR_39.csproj.AssemblyReference.cache
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\LR_39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\LR_39.AssemblyInfoInputs.cache
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\LR_39.AssemblyInfo.cs
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\LR_39.csproj.CoreCompileInputs.cache
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\LR_39.dll
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\refint\LR_39.dll
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\LR_39.pdb
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\LR_39.genruntimeconfig.cache
+C:\Users\gurin\source\repos\LR_39\LR_39\obj\Debug\net6.0\ref\LR_39.dll
